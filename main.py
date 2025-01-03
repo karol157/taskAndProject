@@ -42,7 +42,6 @@ else:
     choose = input("=>")
     Console.clear()
 
-    # Create operation
     if choose == "1":
         print("1. Project\n2. Task")
         choose = input("=>")
