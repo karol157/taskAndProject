@@ -8,4 +8,4 @@ If you want to add it to autostart you can write in cmd(Windows)
 
 or bash(linux)
 
-``` python g[path to main file] ```
+``` python [path to main file] ```
